@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "klequis <klequis@gmail.com> (http://trivalleycoders.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "3.0.7",
+    "restify": "7.1.1"
+  }
+}
